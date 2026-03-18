@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Thử thách nghiêng đầu_V1_OFFLINE",
+  "description": "Game tương tác bằng cử động đầu dành cho học sinh mầm non",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
